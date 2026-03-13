@@ -1,5 +1,16 @@
-## Ola, eu sou o Matheus
+👨‍💻 Matheus Rosa
 
-- Estudante de ADS
-- Engenheiro de projetos industriais
-- Foco em automação e tecnologia
+⚙️ Engenheiro de Projetos e Automação
+
+Profissional focado em desenvolvimento de soluções técnicas, melhoria de processos e automação industrial.
+
+🚀 Áreas de Interesse
+
+- ⚙️ Engenharia de Projetos
+- 🤖 Automação
+- 🐍 Programação em Python
+- 🗄️ Banco de dados (SQLite)
+
+📬 Contato
+
+- 📧 matheus.rosa115@etec.sp.gov.br
