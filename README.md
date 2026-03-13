@@ -2,15 +2,27 @@
 
 ⚙️ Engenheiro de Projetos e Automação
 
-Profissional focado em desenvolvimento de soluções técnicas, melhoria de processos e automação industrial.
+Profissional focado em desenvolvimento de soluções técnicas, melhoria de processos e automação.
 
-🚀 Áreas de Interesse
+---
+
+🚀 Tecnologias que utilizo
+
+🐍 Python
+
+████████████████████████████████████ 100%
+
+---
+
+📚 Áreas de Interesse
 
 - ⚙️ Engenharia de Projetos
 - 🤖 Automação
-- 🐍 Programação em Python
-- 🗄️ Banco de dados (SQLite)
+- 🐍 Desenvolvimento em Python
+- 🗄️ Banco de dados SQLite
+
+---
 
 📬 Contato
 
-- 📧 matheus.rosa115@etec.sp.gov.br
+📧 matheus.rosa115@etec.sp.gov.br
